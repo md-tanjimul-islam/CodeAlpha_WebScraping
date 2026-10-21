@@ -1,51 +1,101 @@
 app_id,title,release_date,original_price,final_price,discount_pct,review_summary,total_reviews
-4435490,Call of Duty®: Modern Warfare® 4,"Oct 22, 2026",69.99,69.99,0,Very Positive,2406
-553850,HELLDIVERS™ 2,"Feb 8, 2024",39.99,39.99,0,Very Positive,638352
-3393110,AION 2,"Oct 5, 2026",0.0,0.0,0,Mixed,17867
-730,Counter-Strike 2,"Aug 21, 2012",0.0,0.0,0,Very Positive,2637133
-2073850,THE FINALS,"Dec 7, 2023",0.0,0.0,0,Very Positive,159657
-3259780,FINAL FANTASY RESONANCE,"Oct 22, 2026",49.99,49.99,0,,0
-2357570,Overwatch®,"Aug 10, 2023",0.0,0.0,0,Mixed,173532
-1091500,Cyberpunk 2077,"Dec 9, 2020",59.99,17.99,70,Very Positive,394419
-4162040,Zenless Zone Zero,"Jun 16, 2026",0.0,0.0,0,Very Positive,7728
-381210,Dead by Daylight,"Jun 14, 2016",19.99,7.99,60,Mostly Positive,269693
-1203620,Enshrouded,"Oct 15, 2026",39.99,35.99,10,Very Positive,51041
-4078430,STAR WARS: Galactic Racer™,"Oct 6, 2026",59.99,59.99,0,Very Positive,5085
-230410,Warframe,"Mar 25, 2013",0.0,0.0,0,Very Positive,303241
-2767030,Marvel Rivals,"Dec 5, 2024",0.0,0.0,0,Mostly Positive,305901
-2315050,We Were Here Tomorrow,"Oct 20, 2026",19.99,17.99,10,Mixed,196
-1867240,WARDOGS,"Sep 10, 2026",39.99,39.99,0,Mostly Positive,74545
-3010850,Gears of War: E-Day,"Oct 6, 2026",69.99,69.99,0,Mostly Positive,7070
-3219030,Planet Zoo 2,"Oct 13, 2026",49.99,49.99,0,Mixed,2721
-1151340,Fallout 76,"Apr 14, 2020",39.99,7.99,80,Mostly Positive,47031
-632360,Risk of Rain 2,"Aug 11, 2020",24.99,8.24,67,Overwhelmingly Positive,164897
-4954910,Scam With Your Friends,"Oct 15, 2026",9.99,8.99,10,Very Positive,1857
-3513350,Wuthering Waves,"Apr 28, 2025",0.0,0.0,0,Very Positive,30712
-359550,Tom Clancy's Rainbow Six Siege,"Dec 1, 2015",0.0,0.0,0,Very Positive,822019
-1172470,Apex Legends™,"Nov 4, 2020",0.0,0.0,0,Mostly Positive,452528
-570,Dota 2,"Jul 9, 2013",0.0,0.0,0,Very Positive,842177
-4126040,Aniimo,"Sep 15, 2026",0.0,0.0,0,Mostly Positive,13283
-3028330,Battlefield™ REDSEC,"Oct 28, 2025",0.0,0.0,0,Mixed,9754
-2929250,over the hill,"Oct 14, 2026",24.99,19.99,20,Very Positive,1947
-4019220,Dressmaker,"Sep 21, 2026",14.99,14.99,0,Overwhelmingly Positive,12197
-216150,MapleStory,"Aug 9, 2012",0.0,0.0,0,Mixed,13718
-4356430,NBA 2K27,"Sep 3, 2026",69.99,48.99,30,Mixed,1417
-2087540,Escape from Playtime,"Oct 21, 2026",9.99,8.99,10,,0
-1808500,ARC Raiders,"Oct 30, 2025",39.99,39.99,0,Very Positive,203377
-4231820,Castlevania: Belmont's Curse,"Oct 14, 2026",29.99,29.99,0,Very Positive,3290
-1374490,RuneScape: Dragonwilds,"Sep 15, 2026",29.99,20.99,30,Very Positive,26151
-3247750,Mycopunk,"Oct 20, 2026",14.99,7.49,50,Very Positive,3081
-4115450,Phantom Blade Zero,"Oct 28, 2026",59.99,59.99,0,,0
-3224770,Umamusume: Pretty Derby,"Jun 24, 2025",0.0,0.0,0,Very Positive,42658
-2141910,Magic: The Gathering Arena,"May 23, 2023",0.0,0.0,0,Mixed,23554
-377160,Fallout 4,"Nov 9, 2015",19.99,4.99,75,Very Positive,184345
-1599340,Lost Ark,"Feb 11, 2022",0.0,0.0,0,Mixed,104986
-3469910,Star Trek: Outposts Unknown,"Oct 20, 2026",32.99,29.69,10,Mostly Negative,57
-1401590,Disney Dreamlight Valley,"Dec 5, 2023",59.99,35.99,40,Very Positive,15895
-1085660,Destiny 2,"Oct 1, 2019",0.0,0.0,0,Mostly Positive,391176
-1174180,Red Dead Redemption 2,"Dec 5, 2019",59.99,14.99,75,Very Positive,317709
-3768760,007 First Light,"May 26, 2026",69.99,41.99,40,Very Positive,19231
-236390,War Thunder,"Aug 15, 2013",0.0,0.0,0,Mostly Positive,329185
-3940610,EA SPORTS™ Madden NFL 27,"Aug 13, 2026",69.99,69.99,0,Mostly Negative,1231
-4508340,NTE: Neverness to Everness,"Jul 7, 2026",0.0,0.0,0,Very Positive,3321
-221100,DayZ,"Dec 13, 2018",49.99,49.99,0,Mostly Positive,179187
+2005920,Silent Chronicles,"Apr 28, 2024",19.99,19.99,0,Mixed,1962
+1514890,Cyber Legacy,"Jul 24, 2022",9.99,7.99,20,Mostly Positive,531
+467520,Neon Dominion,"Jan 17, 2016",49.99,49.99,0,Mixed,7633
+1141430,Last Protocol,"Jan 02, 2019",9.99,8.99,10,Overwhelmingly Positive,5902
+1652930,Frozen Survivors,"Oct 02, 2017",14.99,11.24,25,Very Positive,1400
+1593900,Lost Survivors,"Nov 06, 2016",49.99,44.99,10,Mostly Positive,636
+922350,Dark Odyssey,"Oct 22, 2023",19.99,4.0,80,Positive,4348
+1628970,Crimson Chronicles,"Jun 05, 2021",39.99,16.0,60,Positive,2442
+1042770,Rogue Survivors,"Nov 13, 2016",19.99,15.99,20,Mostly Positive,178
+2311860,Neon Chronicles,"Oct 08, 2021",29.99,29.99,0,Mixed,1621
+1206370,Savage Protocol,"Apr 21, 2019",9.99,9.99,0,Mostly Positive,2749
+317620,Mythic Tactics,"Aug 22, 2015",9.99,9.99,0,Mixed,428
+2466420,Savage Legacy,"Sep 06, 2019",14.99,6.0,60,Positive,2449
+766510,Iron Dominion,"Dec 04, 2016",4.99,4.99,0,Mostly Positive,176
+1727130,Eternal Kingdom,"Jul 20, 2017",49.99,49.99,0,Overwhelmingly Positive,15335
+1234440,Neon Arena,"Feb 23, 2024",9.99,7.49,25,Mixed,13315
+1321380,Neon Uprising,"May 22, 2022",19.99,15.99,20,Overwhelmingly Positive,1207
+1901310,Frozen Tactics,"May 24, 2016",39.99,39.99,0,Very Negative,3234
+1653980,Silent Protocol,"Nov 10, 2023",39.99,33.99,15,Positive,38
+2470750,Dark Voyage,"Dec 22, 2020",14.99,14.99,0,Overwhelmingly Positive,284
+1186740,Iron Chronicles,"Feb 06, 2024",19.99,19.99,0,Very Positive,1129
+608500,Lost Dominion,"Oct 09, 2022",59.99,40.19,33,Very Positive,325
+2246160,Mythic Kingdom,"Jul 13, 2018",29.99,20.09,33,Positive,5670
+1361090,Cyber Arena,"Jul 25, 2020",39.99,39.99,0,Mostly Positive,44164
+865780,Final Dominion,"Jul 10, 2020",49.99,49.99,0,Positive,275
+1199490,Dark Kingdom,"Jun 28, 2022",39.99,26.79,33,Positive,473
+1066490,Rogue Echoes,"Aug 01, 2017",9.99,9.99,0,Mixed,2635
+1679400,Cyber Realm,"Jun 19, 2018",19.99,19.99,0,Mixed,23808
+248900,Frozen Uprising,"Jul 19, 2017",4.99,4.99,0,Positive,255
+1826530,Lost Legacy,"Jan 30, 2018",29.99,29.99,0,Very Positive,2693
+229780,Lost Echoes,"Sep 04, 2016",59.99,40.19,33,Positive,33325
+1150800,Rogue Legacy,"May 19, 2015",19.99,17.99,10,Mixed,128
+605340,Iron Protocol,"Oct 12, 2024",14.99,14.99,0,Mostly Positive,232
+2483290,Frozen Dominion,"Oct 10, 2015",0.0,0.0,0,Very Negative,918
+554770,Neon Horizon,"Mar 28, 2024",59.99,59.99,0,Positive,786
+1573090,Crimson Arena,"Jan 12, 2015",4.99,4.99,0,Mixed,6635
+1079570,Last Legacy,"Feb 01, 2023",0.0,0.0,0,Mixed,2661
+274800,Silent Kingdom,"Jun 01, 2018",9.99,9.99,0,Positive,105
+773310,Last Kingdom,"May 21, 2020",0.0,0.0,0,Mostly Positive,4124
+921420,Frozen Protocol,"Dec 08, 2017",19.99,19.99,0,Mixed,717
+773930,Silent Realm,"Feb 08, 2020",19.99,15.99,20,Positive,13892
+458810,Iron Echoes,"Sep 12, 2019",9.99,9.99,0,Mixed,662
+2276920,Final Survivors,"Jul 06, 2020",0.0,0.0,0,Positive,652
+1908880,Rogue Arena,"Feb 03, 2019",4.99,3.99,20,Mostly Positive,4297
+2206840,Silent Arena,"Jul 31, 2020",14.99,14.99,0,Mostly Positive,6128
+1891110,Rogue Tactics,"Aug 03, 2023",0.0,0.0,0,Mostly Negative,3703
+1291840,Last Frontier,"Jul 10, 2019",29.99,29.99,0,Mostly Positive,121
+966750,Frozen Siege,"Oct 05, 2018",9.99,9.99,0,Positive,4276
+1677500,Wild Horizon,"May 15, 2016",9.99,9.99,0,Positive,345
+1989780,Crimson Tactics,"Sep 28, 2018",14.99,14.99,0,Very Positive,2634
+789040,Lost Kingdom,"Apr 22, 2016",14.99,14.99,0,Very Positive,185
+1067460,Silent Echoes,"Nov 24, 2016",0.0,0.0,0,Mixed,3692
+1093200,Eternal Tactics,"Nov 27, 2024",4.99,4.99,0,Mixed,497
+921650,Frozen Odyssey,"Dec 06, 2015",49.99,49.99,0,Mixed,232
+893020,Silent Horizon,"Jan 06, 2020",0.0,0.0,0,Overwhelmingly Positive,5665
+1433640,Final Tactics,"Sep 06, 2023",19.99,9.99,50,Mixed,2661
+826790,Iron Realm,"Dec 01, 2024",19.99,19.99,0,Mostly Positive,676
+1842400,Hidden Siege,"Jul 11, 2016",14.99,11.24,25,Mostly Positive,18432
+2241650,Silent Survivors,"Sep 13, 2016",14.99,14.99,0,Mixed,893
+1617050,Mythic Uprising,"Nov 16, 2018",39.99,8.0,80,Mostly Positive,1903
+1683810,Mythic Echoes,"Oct 07, 2020",49.99,49.99,0,Overwhelmingly Positive,2780
+825870,Last Horizon,"Dec 26, 2024",9.99,7.99,20,Mostly Negative,670
+1538950,Dark Siege,"Feb 28, 2017",14.99,10.04,33,Mixed,3842
+2130070,Dark Horizon,"Sep 16, 2016",9.99,9.99,0,Mostly Positive,770
+979120,Final Kingdom,"Aug 20, 2017",19.99,19.99,0,Positive,935
+1214480,Silent Legacy,"Feb 05, 2024",29.99,7.5,75,Mixed,15998
+105530,Eternal Legacy,"Apr 25, 2015",9.99,9.99,0,Positive,342
+1863180,Eternal Survivors,"Dec 15, 2018",14.99,14.99,0,Mixed,38
+1902080,Mythic Frontier,"Mar 28, 2016",59.99,59.99,0,Positive,23801
+513440,Lost Voyage,"Aug 19, 2016",0.0,0.0,0,Mostly Positive,106822
+525280,Savage Kingdom,"Jul 16, 2024",19.99,19.99,0,Mixed,945
+1827380,Eternal Uprising,"Jan 07, 2015",29.99,29.99,0,Positive,81
+1046060,Crimson Uprising,"May 06, 2018",4.99,4.99,0,Very Positive,1100
+2084840,Mythic Voyage,"Jul 10, 2024",0.0,0.0,0,Positive,1143
+1106290,Hidden Legacy,"Apr 29, 2021",4.99,4.99,0,Overwhelmingly Positive,1334
+2379680,Cyber Protocol,"Sep 30, 2015",49.99,33.49,33,Mostly Positive,304
+1375230,Last Voyage,"Nov 03, 2019",0.0,0.0,0,Positive,4570
+1425880,Crimson Odyssey,"Feb 06, 2025",9.99,9.99,0,Mixed,4184
+1840170,Neon Protocol,"Mar 02, 2019",0.0,0.0,0,Positive,165
+1448280,Eternal Voyage,"Jul 01, 2020",4.99,3.74,25,Mostly Positive,5534
+2373860,Neon Frontier,"Jul 14, 2020",29.99,15.0,50,Positive,48256
+795080,Crimson Frontier,"Nov 14, 2021",9.99,9.99,0,Mixed,2380
+1374000,Silent Frontier,"Dec 12, 2016",19.99,8.0,60,Positive,1053
+1633100,Hidden Echoes,"Sep 26, 2023",19.99,19.99,0,Overwhelmingly Positive,1440
+2480030,Mythic Horizon,"Apr 14, 2025",49.99,39.99,20,Very Negative,4838
+409580,Rogue Dominion,"Jun 25, 2016",0.0,0.0,0,Mostly Negative,113
+1814650,Final Echoes,"Jul 07, 2023",49.99,49.99,0,Very Positive,2352
+236980,Hidden Realm,"Jul 02, 2023",29.99,7.5,75,Mixed,968
+2014330,Mythic Odyssey,"Sep 19, 2022",4.99,3.74,25,Mostly Positive,34770
+1500550,Silent Odyssey,"Nov 10, 2018",39.99,39.99,0,Mostly Negative,1368
+1898830,Lost Arena,"Nov 17, 2019",49.99,49.99,0,Mostly Positive,26072
+196590,Savage Chronicles,"Sep 25, 2023",9.99,9.99,0,Positive,309
+1771640,Frozen Arena,"Aug 03, 2016",49.99,49.99,0,Very Positive,4626
+1178950,Rogue Odyssey,"Aug 16, 2023",19.99,19.99,0,Overwhelmingly Positive,3014
+465470,Hidden Survivors,"Jul 30, 2024",29.99,29.99,0,Mixed,450
+2004000,Neon Realm,"Feb 04, 2022",59.99,30.0,50,Mostly Positive,2401
+1872280,Rogue Protocol,"Jul 21, 2018",14.99,3.0,80,Mostly Positive,12582
+2316270,Mythic Dominion,"Oct 25, 2020",39.99,29.99,25,Positive,1076
+1053750,Crimson Survivors,"Jul 10, 2015",9.99,8.49,15,Very Positive,120
+1683520,Wild Tactics,"Sep 10, 2024",39.99,31.99,20,Mostly Positive,1757
